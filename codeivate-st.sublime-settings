@@ -1,0 +1,11 @@
+{
+	"dialog": false,
+	"growl_active": true,
+	"machine_name": "Brooks Burgy",
+	"notify_send_active": true,
+	"notify_send_path": "/usr/bin/notify-send",
+	"pushover_active": false,
+	"pushover_user_id": "",
+	"user_id": "0ae93ff18e47dc23310524017cea3cbc69f193b4",
+	"user_token": "369dc1a2bdd659e4ff4b51681e8781ada1a3cbde"
+}

@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Dayle Rees Color Schemes",
+		"Monokai Extended"
+	],
+	"phoenix_color_blue": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_highlight_current_tab": true,
+	"theme": "Phoenix Dark.sublime-theme"
+}
